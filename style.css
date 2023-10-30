@@ -35,6 +35,10 @@
     left: 175px;
 }
 
+input:focus{
+    border-radius: 5px dotted magenta;
+}
+
 .filter-container {
     display: table;
     width: 200px;
